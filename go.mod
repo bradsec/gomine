@@ -1,4 +1,4 @@
-module github.com/bradsec/gofindfiles
+module github.com/bradsec/gomine
 
 go 1.23
 
